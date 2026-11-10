@@ -23,7 +23,7 @@ target/
 src/main/resources/application.properties
 
 # Uploaded files
-upload/
+/uploads/
 
 ### NetBeans ###
 /nbproject/private/
